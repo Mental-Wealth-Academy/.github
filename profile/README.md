@@ -11,12 +11,12 @@ We build research-driven tools at the intersection of cyber-psychology, AI gover
 | Repo | What it does |
 |---|---|
 | [**platform**](https://github.com/Mental-Wealth-Academy/platform) | The main Academy — an agentic LMS exploring cyber-psychology and on-chain governance |
-| [**azura-crm**](https://github.com/Mental-Wealth-Academy/azura-crm) | CRE workflows for automating payrolls, treasury ops, and RWA requests |
+| [**academy-crm**](https://github.com/Mental-Wealth-Academy/academy-crm) | CRE workflows for automating payrolls, treasury operations, and RWA requests via private API calls |
 | [**research-moltbook-cre**](https://github.com/Mental-Wealth-Academy/research-moltbook-cre) | Governance research agent — Chainlink CRE x AI |
-| [**survey-iq-initiation**](https://github.com/Mental-Wealth-Academy/survey-iq-initiation) | AI-powered psychometric onboarding for new members |
-| [**miniapp**](https://github.com/Mental-Wealth-Academy/miniapp) | Wellness check-in mini-app |
+| [**survey-iq-initiation**](https://github.com/Mental-Wealth-Academy/survey-iq-initiation) | AI-powered psychometric onboarding for new Academy members |
+| [**wellness-directory**](https://github.com/Mental-Wealth-Academy/wellness-directory) | Wellness provider search |
 | [**brand-kit**](https://github.com/Mental-Wealth-Academy/brand-kit) | Logos, colors, and brand guidelines |
-| [**terminal-directory**](https://github.com/Mental-Wealth-Academy/terminal-directory) | Academy landing page |
+| [**Mental-Wealth-Academy**](https://github.com/Mental-Wealth-Academy/Mental-Wealth-Academy) | A decentralized digital library utilizing IPFS |
 
 ### Links
 
