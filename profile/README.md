@@ -14,6 +14,7 @@ We build research-driven tools at the intersection of cyber-psychology, AI gover
 | [**academy-crm**](https://github.com/Mental-Wealth-Academy/academy-crm) | CRE workflows for automating payrolls, treasury operations, and RWA requests via private API calls |
 | [**research-moltbook-cre**](https://github.com/Mental-Wealth-Academy/research-moltbook-cre) | Governance research agent — Chainlink CRE x AI |
 | [**wellness-directory**](https://github.com/Mental-Wealth-Academy/wellness-directory) | Wellness provider search |
+| [**knowledge**](https://github.com/Mental-Wealth-Academy/knowledge) | Central hub for aggregating, processing, and synthesizing knowledge via automated workflows and LLM-powered insights |
 | [**brand-kit**](https://github.com/Mental-Wealth-Academy/brand-kit) | Logos, colors, and brand guidelines |
 
 ### Links
