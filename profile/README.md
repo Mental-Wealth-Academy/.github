@@ -11,9 +11,9 @@ We build research-driven tools at the intersection of cyber-psychology, AI gover
 | Repo | What it does |
 |---|---|
 | [**platform**](https://github.com/Mental-Wealth-Academy/platform) | The main Academy — an agentic LMS exploring cyber-psychology and on-chain governance |
-| [**treasury**](https://github.com/Mental-Wealth-Academy/treasury) | Community-owned USDC treasury with autonomous trading model and Polymarket signal integration |
-| [**genetics**](https://github.com/Mental-Wealth-Academy/genetics) | Privacy-first browser-native genomics lab — your DNA never leaves your device |
-| [**research**](https://github.com/Mental-Wealth-Academy/research) | Data visualization, statistical analysis, and curated daily readings |
+| [**treasury**](https://github.com/Mental-Wealth-Academy/treasury) | Community-owned USDC treasury with autonomous trading model — [live](https://mwa-treasury.vercel.app) |
+| [**genetics**](https://github.com/Mental-Wealth-Academy/genetics) | Privacy-first browser-native genomics lab — [live](https://mwa-genetics.vercel.app) |
+| [**research**](https://github.com/Mental-Wealth-Academy/research) | Data visualization, statistical analysis, and curated daily readings — [live](https://mwa-research.vercel.app) |
 | [**academy-crm**](https://github.com/Mental-Wealth-Academy/academy-crm) | CRE workflows for automating payrolls, treasury operations, and RWA requests via private API calls |
 | [**moltbook-research**](https://github.com/Mental-Wealth-Academy/moltbook-research) | Governance research agent — Chainlink CRE x AI |
 | [**knowledge**](https://github.com/Mental-Wealth-Academy/knowledge) | Central hub for aggregating, processing, and synthesizing knowledge via automated workflows and LLM-powered insights |
