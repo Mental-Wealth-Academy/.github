@@ -4,6 +4,8 @@
 
 We build research-driven tools at the intersection of cyber-psychology, AI governance, and decentralized education. Our platform helps learners understand their own cognition — then puts them in the driver's seat of the systems that shape it.
 
+<img width="2450" height="2372" alt="vt4t34v" src="https://github.com/user-attachments/assets/c401d647-ecef-4a44-9b6a-7a40d7b177f9" />
+
 ---
 
 ### What we're building
