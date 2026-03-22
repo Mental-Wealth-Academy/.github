@@ -12,6 +12,7 @@ We build research-driven tools at the intersection of cyber-psychology, AI gover
 
 | Repo | What it does |
 |---|---|
+| [**Pocket-World**](https://github.com/Mental-Wealth-Academy/Pocket-World) | Azure World — multi-agent simulation engine that predicts futures from a single document — [live](https://azure-world.vercel.app) |
 | [**platform**](https://github.com/Mental-Wealth-Academy/platform) | The main Academy — an agentic LMS exploring cyber-psychology and on-chain governance |
 | [**treasury**](https://github.com/Mental-Wealth-Academy/treasury) | Community-owned USDC treasury with autonomous trading model — [live](https://mwa-treasury.vercel.app) |
 | [**genetics**](https://github.com/Mental-Wealth-Academy/genetics) | Privacy-first browser-native genomics lab — [live](https://mwa-genetics.vercel.app) |
