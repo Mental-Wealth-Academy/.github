@@ -30,6 +30,9 @@ Mental Wealth is open infrastructure for success pathways as a public good — t
 
 No one company controls it. No one company profits from it. It just gets better, for everyone, together.
 
+<img width="2110" height="1189" alt="7" src="https://github.com/user-attachments/assets/5352e94b-0f17-4405-a827-ff32abd96f2d" />
+
+
 ---
 
 ## ⚙️ How It Works
@@ -160,6 +163,7 @@ Say hello → [research@mentalwealthacademy.net](mailto:research@mentalwealthaca
 *Open protocol · Community governed · © 2026*
 
 </div>
+
 ### What we're building
 
 | Repo | What it does |
