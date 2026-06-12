@@ -30,9 +30,6 @@ Mental Wealth is open infrastructure for success pathways as a public good — t
 
 No one company controls it. No one company profits from it. It just gets better, for everyone, together.
 
-<img width="2110" height="1189" alt="7" src="https://github.com/user-attachments/assets/5352e94b-0f17-4405-a827-ff32abd96f2d" />
-
-
 ---
 
 ## ⚙️ How It Works
@@ -44,6 +41,9 @@ Your community learns locally  →  Encrypted patterns join the network  →  Sh
 ```
 
 The result is intelligent AI infrastructure that grows as more people use it — an evolving library of ideologies & tools.
+
+<img width="2110" height="1189" alt="6" src="https://github.com/user-attachments/assets/616ffbb7-525e-4a61-9c66-294ab1d32a82" />
+
 
 ---
 
