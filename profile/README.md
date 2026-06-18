@@ -127,13 +127,10 @@ A small team of American PhD researchers — rooted in Human-Centered Psychology
 
 | Award | Detail |
 |---|---|
-| 🎓 **Drexel University** | Founded in Psychology, Division of Human-Centered Computing — home to Sir James Q. Marsh, inventor of the Ethereal Horizon, and Blue Model 002 |
-| 🏅 **Ethereum Foundation Grant — $10k awarded** | Supported by Vitalik Buterin and co. via SHIFT Grants |
 | 🏅 **Artizen Fund — $30k raised** | Community-funded via Artizen Season 6, with matched funding from the Funding the Commons (FTC) Fund for Public Goods |
-| 🌐 **Osiris Research Branch — USA** | Selected to join Osiris' AI Research Node; co-working, events, and collaboration with leading AI and longtermist innovators |
-| 🎓 **Eth Denver** | Selected for the Summit on Responsible Decentralized Intelligence |
-| 🔬 **Decentralized Research Center** | Featured by the DRC, recently funded by the Ethereum Foundation |
-| 🏅 **Stellar Institute — $5k awarded** | Early development grant, supported by philanthropist Jamie Macklemore |
+| 🌐 **Osiris Research Group — USA** | Selected to join Osiris' AI Research Node; co-working, events, and collaboration with leading AI and longtermist innovators |
+| 🔬 **Decentralized Research Center** | Featured by the ORG, recently funded by the Ethereum Foundation |
+| 🏅 **Angel Investors — $5k awarded** | Early development grant, supported by philanthropists |
 
 ---
 
