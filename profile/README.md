@@ -28,19 +28,17 @@ Education is the great equalizer, a force that transforms lives, behavior, and e
 
 Mental Wealth is open infrastructure for success pathways as a public good — the way the internet itself is a public good. Millions of devices, millions of people, contributing quietly to something that benefits everyone.
 
-No one company controls it. No one company profits from it. It just gets better, for everyone, together.
-
 ---
 
 ## ⚙️ How It Works
 
-Your community — your data, your people — contribute to training shared AI models as you go about your day. Your raw data never leaves your hands. Only anonymized, encrypted patterns are shared with the network.
+Your community — your data, your people — contribute to training shared educational models passively by importing your courses and students.
 
 ```
-Your community learns locally  →  Encrypted patterns join the network  →  Shared AI models improve for everyone
+Your community learns locally  →  educational reflections improve the platform  →  Shared AI model improves for everyone
 ```
 
-The result is intelligent AI infrastructure that grows as more people use it — an evolving library of ideologies & tools.
+The result is intelligent educational infrastructure that grows as more people use it — an evolving library of ideologies & tools.
 
 <img width="2110" height="1189" alt="6" src="https://github.com/user-attachments/assets/616ffbb7-525e-4a61-9c66-294ab1d32a82" />
 
@@ -49,7 +47,7 @@ The result is intelligent AI infrastructure that grows as more people use it —
 
 ## 🌍 What Becomes Possible
 
-When AI is trained collectively, in the open, it stops being a product and starts being infrastructure.
+When Educational tech is trained collectively, it stops being a product and starts being infrastructure.
 
 | Domain | What changes |
 |---|---|
@@ -57,7 +55,7 @@ When AI is trained collectively, in the open, it stops being a product and start
 | 🌱 Agriculture | AI that learns from farmers across every climate and continent |
 | 📚 Education | Tools that improve from the experience of students everywhere, not just in well-funded schools |
 
-*This is what AI looks like when it's built* for *humanity rather than* about *it.*
+*This is what education looks like when it's built* for *humanity rather than* around *it.*
 
 ---
 
@@ -71,27 +69,26 @@ Apps are built the same way they always have been — but with Mental Wealth plu
 ### 1️⃣ Model Trainers
 You bring the brains. Mental Wealth brings the network.
 
-- Deploy your AI models to the protocol.
-- Users' devices train them locally on real-world data.
-- Receive anonymized, encrypted updates that make your model smarter — without touching raw user data.
-- Your work improves the AI for everyone, everywhere.
+- Deploy your class curriculum to the website.
+- Reach real users and train them on your real-world data.
+- Receive anonymized, encrypted updates that make your companion smarter — without touching raw user data.
+- Your work improves the educational platform for everyone.
 
 ### 2️⃣ Application Developers
 You bring the utility. The network brings the scale.
 
-- Build communities that connect your users to the AI commons.
+- Build communities that connect your users to fun educational tech.
 - Users benefit automatically — smarter recommendations, better predictions, personalized insights.
-- Every interaction feeds back to the shared models, so your app **grows smarter with the global network**, without users ever seeing the protocol.
-- Your app earns a share of network fees — generating revenue while your users' data stays entirely in their hands.
+- Every interaction is onchain, so your contribution **is permanently stored on the network**, and gets rewarded.
 
 ### ⚡ Why This Matters
 
 | Traditional AI | Mental Wealth Academy's Blue AI |
 |---|---|
-| You build your own dataset | The network provides millions of real-world contributions |
-| AI improves your product only | AI improves every app, every user, every model |
-| You manage raw user data | Data stays on devices; privacy is guaranteed |
-| Platform captures all value | App earns network fees; value returns to contributors |
+| You build your own dataset | The network is grow from organic collaborative ecosystem |
+| AI improves your speed only | AI improves every trajectory and coincides a story |
+| Your raw user data is sold | Data stays with company; privacy and encrypted field notes |
+| Platform captures all value | App earns fees; returns it to contributors |
 
 [Documentation](https://github.com/Mental-Wealth-Academy) · [DevNet](https://github.com/Mental-Wealth-Academy) · [White Paper](https://github.com/Mental-Wealth-Academy/White-Paper)
 
@@ -99,9 +96,9 @@ You bring the utility. The network brings the scale.
 
 ## 💻 For Users
 
-When you use an app built with Mental Wealth, your everyday activity — movement, choices, patterns — quietly helps train AI that belongs to everyone.
+When you use an app built with Mental Wealth, your everyday activity — movement, choices, patterns — quietly helps build educational infrastructure that belongs to everyone.
 
-Your data never leaves your device. You're not a product. You're a contributor to something shared.
+Your data never leaves your device. You're not a product. You're a contributor to the next-gen, future of education.
 
 *Think of it less like using a service, and more like compounding quality of wealth better than you found it.*
 
@@ -119,7 +116,7 @@ The models it trains belong to the commons.
 
 ## 👥 The Team
 
-A small team of American PhD researchers — rooted in Human-Centered Psychology & Anti-LLM-Psychosis, home to Sir James Q. Marsh & Madaam Ripley Jene. Three years of quiet building. Now it's live.
+A small team of American PhD researchers — rooted in Human-Centered Psychology & Human-To-Computer-Interaction, James Q. Marsh & Madaam Ripley Jene, PhD. Three years of organic partnership.
 
 ---
 
@@ -129,8 +126,8 @@ A small team of American PhD researchers — rooted in Human-Centered Psychology
 |---|---|
 | 🏅 **Artizen Fund — $30k raised** | Community-funded via Artizen Season 6, with matched funding from the Funding the Commons (FTC) Fund for Public Goods |
 | 🌐 **Osiris Research Group — USA** | Selected to join Osiris' AI Research Node; co-working, events, and collaboration with leading AI and longtermist innovators |
-| 🔬 **Decentralized Research Center** | Featured by the ORG, recently funded by the Ethereum Foundation |
-| 🏅 **Angel Investors — $5k awarded** | Early development grant, supported by philanthropists |
+| 🔬 **Emotiv Partnership For EEG Hardware** | Featured by the ORG, recently funded by the Ethereum Foundation |
+| 🏅 **Angel Investors — $15k awarded** | Early development grant, supported by philanthropists |
 
 ---
 
@@ -146,8 +143,6 @@ Support us → [https://artizen.fund/index/p/mental-wealth-academy?season=6)
 
 ## 🤝 Get Involved
 
-Run a node → [github.com/MentalWealthAcademy/Nodes](docs.mentalwealthacademy.world)
-
 Read the docs → [docs.mentalwealthacademy.world](docs.mentalwealthacademy.world)
 
 Say hello → [research@mentalwealthacademy.net](mailto:research@mentalwealthacademy.net)
@@ -156,8 +151,8 @@ Say hello → [research@mentalwealthacademy.net](mailto:research@mentalwealthaca
 
 <div align="center">
 
-*Mental Wealth Foundation — open AI infrastructure, built by everyone, for everyone.*<br>
-*Open protocol · Community governed · © 2026*
+*Mental Wealth Foundation — onchain infrastructure for the next gen.*<br>
+*Open sourced · Community governed · © 2026*
 
 </div>
 
